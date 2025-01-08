@@ -33,6 +33,5 @@ public class LoginTo implements Task {
                     Click.on(LoginView.submit)
             );
         }
-
     }
 }
